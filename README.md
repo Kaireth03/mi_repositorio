@@ -1,2 +1,2 @@
 # mi_repositorio
-Actividad 2 del curso
+Se estará desarrollando la actividad #2 en este repositorio.
